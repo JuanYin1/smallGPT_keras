@@ -1,3 +1,12 @@
+# result of translating from bigram.py to bigram_keras.py
+
+## `bigram.py`
+<img width="751" alt="截屏2024-05-09 19 35 51" src="https://github.com/JuanYin1/smallGPT_keras/assets/79886525/9cbe2100-d2f0-45c9-a296-278fda92d2ea">
+
+## `bigram_keras.py`
+<img width="1118" alt="截屏2024-05-09 19 36 07" src="https://github.com/JuanYin1/smallGPT_keras/assets/79886525/e4a85cb4-129d-482c-bba0-04c7230e5fb2">
+
+
 
 # nanogpt-lecture
 
